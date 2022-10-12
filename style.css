@@ -1,0 +1,22 @@
+#header {
+    background-color: pink; 
+}
+tr:nth-child(even) {
+    background-color: blue;
+
+}
+tr:nth-child(odd) {
+    background-color: orange;
+
+}
+
+
+#end {
+    background-color: pink;
+}
+
+/* This took me thirty minutes I had a hard time because I di dnot save teh html file so it wasn't updating */ 
+
+
+
+
